@@ -1,1 +1,0 @@
-gg.alert('visit https://gameguardian.net/forum/files/file/342-simple-hack-pubg-mobile/ and redownload')
